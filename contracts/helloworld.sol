@@ -15,5 +15,4 @@ contract HelloWord{
     function changeUser(string memory newUser) public {
         username = newUser;
     }
-
 }
